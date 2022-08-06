@@ -24,6 +24,13 @@
   color: white;
 }
 
+.header-red {
+  color: red;
+}
+.header-blue {
+  color: blue;
+}
+
 .App-link {
   color: #61dafb;
 }
